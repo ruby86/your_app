@@ -15,5 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+<<<<<<< HEAD
 /config/database.production.yml
 /config/secrets.production.yml
+=======
+>>>>>>> b4f42886112884eccadbcdead2532232d5d18b01

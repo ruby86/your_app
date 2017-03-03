@@ -2,7 +2,7 @@
 lock '3.5.0'
 
 set :application, 'your_app'
-set :repo_url, 'git@github.com:me/your_app.git'
+set :repo_url, 'git@github.com:ruby86/your_app.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp

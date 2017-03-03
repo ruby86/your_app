@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 #<<<<<<< HEAD
   root "gwstatus#whoonline"
-#=======
+=======
 #>>>>>>> b4f42886112884eccadbcdead2532232d5d18b01
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
